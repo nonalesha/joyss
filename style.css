@@ -1,0 +1,24 @@
+/* Custom Styles for Joy Galery */
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #F7F4EF;
+    color: #2C2C2C;
+}
+
+.font-serif {
+    font-family: 'Playfair Display', serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #F7F4EF;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #8B263E;
+    border-radius: 4px;
+}
